@@ -1,0 +1,43 @@
+0.figma
+
+1.styling
+
+2.
+-fake backend data
+
+useSwr | getStaticProps
+----Main
+POSTS
+fetchPosts
+
+
+---Profile
+POST
+>getPost
+>deletePost
+
+
+---Form
+>createPost
+>updatePost
+
+
+USER
+>getPosts
+>currentUser
+
+
+3.connect To MongoDB & google api
+
+4.next-auth
+5.model - routes
+6.postman
+
+
+7.testing cypress
+8.deploy
+
+
+9.update cypress url
+
+
